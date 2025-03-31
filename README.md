@@ -6,7 +6,6 @@ Plots were created using [Plotly-3.0.1](https://github.com/plotly/plotly.js).
 
 ## [Dashboard](https://leowheeler1.github.io)
 
-The link above takes the user to the githubPages page for the dashboard of charts. 
+The link above takes the user to the githubPages page for the dashboard of charts, and below is a preview of the page and how it works. 
 
-## Dashboard Landing Page
-
+![Preview](Data/preview.gif)
