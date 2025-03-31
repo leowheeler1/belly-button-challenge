@@ -4,8 +4,8 @@ This challenges uses [data](https://robdunnlab.com/projects/belly-button-biodive
 
 Plots were created using [Plotly-3.0.1](https://github.com/plotly/plotly.js).
 
-## [Dashboard](https://leowheeler1.github.io)
+## [Click Me!](https://leowheeler1.github.io) <--- Dashboard Link
 
-The link above takes the user to the githubPages page for the dashboard of charts, and below is a preview of the page and how it works. 
+The link above takes the user to the Github Pages Deployment for the dashboard of charts, and below is a preview of the page and how it works. 
 
 ![Preview](Data/preview.gif)
